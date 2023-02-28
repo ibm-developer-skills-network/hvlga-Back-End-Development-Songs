@@ -1,7 +1,7 @@
 # Pin Werkzeug because it keeps breaking Flask!
-Werkzeug==2.0.3
+Werkzeug==2.2.2
 # Runtime dependencies
-Flask==2.0.2
+Flask==2.2.2
 # Runtime tools
 gunicorn==20.1.0
 # Testing dependencies
